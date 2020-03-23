@@ -30,5 +30,4 @@ compileJava {
 }
 
 test {
-    exclude 'de/schildbach/pte/live/**'
 }

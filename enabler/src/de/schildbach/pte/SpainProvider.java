@@ -29,4 +29,8 @@ public class SpainProvider extends AbstractNavitiaProvider {
     public String region() {
         return API_REGION;
     }
+
+    public static void main(String[] args) {
+        //queryTrips()
+    }
 }
